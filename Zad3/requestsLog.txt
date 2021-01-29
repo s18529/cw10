@@ -1,0 +1,72 @@
+GET /weatherforecast  
+GET /favicon.ico  
+POST /api/enrollments/promotions {
+"Studies": "informatyka",
+"Semestr": 1
+} ?Index=s18637
+GET /api/students/s18637  
+GET /api/students/  
+Metoda :GET sciezka wywolania :/weatherforecast Body : Querystring :
+Metoda :GET sciezka wywolania :/favicon.ico Body : Querystring :
+Metoda :GET sciezka wywolania :/weatherforecast Body : Querystring :
+Metoda :GET sciezka wywolania :/favicon.ico Body : Querystring :
+Metoda :GET sciezka wywolania :/api/enrollments/login Body :{
+    "Login": "s18637",
+    "Password": " Golonka"
+} Querystring :
+Metoda :POST sciezka wywolania :/api/enrollments/login Body :{
+    "Login": "s18637",
+    "Password": " Golonka"
+} Querystring :
+Metoda :POST sciezka wywolania :/api/enrollments/login Body :{
+    "Login": "s18637",
+    "Password": "Golonka"
+} Querystring :
+Metoda :GET sciezka wywolania :/weatherforecast Body : Querystring :
+Metoda :GET sciezka wywolania :/favicon.ico Body : Querystring :
+Metoda :POST sciezka wywolania :/api/enrollments/login Body :{
+    "Login": "s18637",
+    "Password": "Golonka"
+} Querystring :
+Metoda :GET sciezka wywolania :/weatherforecast Body : Querystring :
+Metoda :GET sciezka wywolania :/favicon.ico Body : Querystring :
+Metoda :POST sciezka wywolania :/api/enrollments/login Body :{
+    "Login": "s18637",
+    "Password": "Golonka"
+} Querystring :
+Metoda :GET sciezka wywolania :/weatherforecast Body : Querystring :
+Metoda :GET sciezka wywolania :/favicon.ico Body : Querystring :
+Metoda :POST sciezka wywolania :/api/enrollments/login Body :{
+    "Login": "s18637",
+    "Password": "Golonka"
+} Querystring :
+Metoda :GET sciezka wywolania :/weatherforecast Body : Querystring :
+Metoda :GET sciezka wywolania :/favicon.ico Body : Querystring :
+Metoda :POST sciezka wywolania :/api/enrollments/login Body :{
+    "Login": "s18637",
+    "Password": "Golonka"
+} Querystring :
+Metoda :POST sciezka wywolania :/api/enrollments/promotions Body :{
+    "Studies": "informatyka",
+    "Semestr": 1
+} Querystring :
+Metoda :POST sciezka wywolania :/api/enrollments/promotions Body :{
+    "Studies": "informatyka",
+    "Semestr": 1
+} Querystring :
+Metoda :POST sciezka wywolania :/api/enrollments/login Body :{
+    "Login": "s18637",
+    "Password": "Golonka"
+} Querystring :
+Metoda :POST sciezka wywolania :/api/enrollments/promotions Body :{
+    "Studies": "informatyka",
+    "Semestr": 1
+} Querystring :
+Metoda :POST sciezka wywolania :/api/enrollments/promotions Body :{
+    "Studies": "informatyka",
+    "Semestr": 1
+} Querystring :
+Metoda :POST sciezka wywolania :/api/enrollments/promotions Body :{
+    "Studies": "informatyka",
+    "Semestr": 1
+} Querystring :
